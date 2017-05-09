@@ -1,0 +1,21 @@
+C:\Documents and Settings\tkarasc\My Documents\Visual Studio 2008\Projects\XMLconv\XMLconv\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\tkarasc\My Documents\Visual Studio 2008\Projects\XMLconv\XMLconv\obj\Debug\XMLconv.frmBlank.resources
+C:\Documents and Settings\tkarasc\My Documents\Visual Studio 2008\Projects\XMLconv\XMLconv\obj\Debug\XMLconv.frmXMLconv.resources
+C:\Documents and Settings\tkarasc\My Documents\Visual Studio 2008\Projects\XMLconv\XMLconv\obj\Debug\XMLconv.Resources.resources
+C:\Documents and Settings\tkarasc\My Documents\Visual Studio 2008\Projects\XMLconv\XMLconv\obj\Debug\XMLconv.vbproj.GenerateResource.Cache
+C:\Documents and Settings\tkarasc\My Documents\Visual Studio 2008\Projects\XMLconv\XMLconv\bin\Debug\XMLconv.exe
+C:\Documents and Settings\tkarasc\My Documents\Visual Studio 2008\Projects\XMLconv\XMLconv\bin\Debug\XMLconv.pdb
+C:\Documents and Settings\tkarasc\My Documents\Visual Studio 2008\Projects\XMLconv\XMLconv\bin\Debug\XMLconv.xml
+C:\Documents and Settings\tkarasc\My Documents\Visual Studio 2008\Projects\XMLconv\XMLconv\obj\Debug\XMLconv.exe
+C:\Documents and Settings\tkarasc\My Documents\Visual Studio 2008\Projects\XMLconv\XMLconv\obj\Debug\XMLconv.xml
+C:\Documents and Settings\tkarasc\My Documents\Visual Studio 2008\Projects\XMLconv\XMLconv\obj\Debug\XMLconv.pdb
+C:\Users\Tom\Documents\Visual Studio 2010\Projects\XMLconv\XMLconv\obj\Debug\XMLconv.exe
+C:\Users\Tom\Documents\Visual Studio 2010\Projects\XMLconv\XMLconv\obj\Debug\XMLconv.xml
+C:\Users\Tom\Documents\Visual Studio 2010\Projects\XMLconv\XMLconv\obj\Debug\XMLconv.pdb
+C:\Users\Tom\Documents\Visual Studio 2010\Projects\XMLconv\XMLconv\bin\Debug\XMLconv.exe
+C:\Users\Tom\Documents\Visual Studio 2010\Projects\XMLconv\XMLconv\bin\Debug\XMLconv.pdb
+C:\Users\Tom\Documents\Visual Studio 2010\Projects\XMLconv\XMLconv\bin\Debug\XMLconv.xml
+C:\Users\Tom\Documents\Visual Studio 2010\Projects\XMLconv\XMLconv\obj\Debug\XMLconv.frmBlank.resources
+C:\Users\Tom\Documents\Visual Studio 2010\Projects\XMLconv\XMLconv\obj\Debug\XMLconv.frmXMLconv.resources
+C:\Users\Tom\Documents\Visual Studio 2010\Projects\XMLconv\XMLconv\obj\Debug\XMLconv.Resources.resources
+C:\Users\Tom\Documents\Visual Studio 2010\Projects\XMLconv\XMLconv\obj\Debug\XMLconv.vbproj.GenerateResource.Cache

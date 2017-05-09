@@ -1,0 +1,11 @@
+C:\Documents and Settings\tkarasc\My Documents\Visual Studio 2008\Projects\XMLconv\XMLconv\bin\Release\XMLconv.exe
+C:\Documents and Settings\tkarasc\My Documents\Visual Studio 2008\Projects\XMLconv\XMLconv\bin\Release\XMLconv.pdb
+C:\Documents and Settings\tkarasc\My Documents\Visual Studio 2008\Projects\XMLconv\XMLconv\bin\Release\XMLconv.xml
+C:\Documents and Settings\tkarasc\My Documents\Visual Studio 2008\Projects\XMLconv\XMLconv\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\tkarasc\My Documents\Visual Studio 2008\Projects\XMLconv\XMLconv\obj\Release\XMLconv.frmBlank.resources
+C:\Documents and Settings\tkarasc\My Documents\Visual Studio 2008\Projects\XMLconv\XMLconv\obj\Release\XMLconv.frmXMLconv.resources
+C:\Documents and Settings\tkarasc\My Documents\Visual Studio 2008\Projects\XMLconv\XMLconv\obj\Release\XMLconv.Resources.resources
+C:\Documents and Settings\tkarasc\My Documents\Visual Studio 2008\Projects\XMLconv\XMLconv\obj\Release\XMLconv.vbproj.GenerateResource.Cache
+C:\Documents and Settings\tkarasc\My Documents\Visual Studio 2008\Projects\XMLconv\XMLconv\obj\Release\XMLconv.exe
+C:\Documents and Settings\tkarasc\My Documents\Visual Studio 2008\Projects\XMLconv\XMLconv\obj\Release\XMLconv.xml
+C:\Documents and Settings\tkarasc\My Documents\Visual Studio 2008\Projects\XMLconv\XMLconv\obj\Release\XMLconv.pdb
